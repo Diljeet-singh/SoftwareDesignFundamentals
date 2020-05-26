@@ -79,5 +79,7 @@ public class Inventory {
         return "Inventory{" + "id=" + id + ", name=" + name + ", qoh=" + qoh
                 + ", rop=" + rop + ", sellPrice=" + sellPrice + '}';
     }
+    
+    
 
 }
